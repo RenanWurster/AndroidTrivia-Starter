@@ -17,7 +17,7 @@ tries to eliminate bugs caused by configuration changes.
 
 Screenshots
 -------------
-<img src="./results/screenshot1.png" />
+<img src="/result/screenshot1.png" width="260">&emsp;<img src="/result/screenshot2.png" width="260">&emsp;<img src="/result/screenshot3.png" width="260">
 
 Prerequisites
 -------------
